@@ -1,4 +1,4 @@
-# 📊 Data Analytics Intern [Codveda Technologies]
+# 📊 Data Analytics Intern [Codveda Technologies]- Task 1
 
 Welcome to my Data Analytics Portfolio! This repository showcases my data analytics projects completed using Python, SQL, Power BI, and data visualization tools.
 
